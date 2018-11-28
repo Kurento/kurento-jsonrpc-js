@@ -66,12 +66,9 @@
     "utf-8-validate": "^5.0"
   },
   "devDependencies": {
-    "bower": "~1.7.9",
-    "browserify": "~13.1.0",
     "coveralls": "^3.0.2",
     "eventtarget": "0.1.0",
     "grunt": "~1.0.1",
-    "grunt-browserify": "^5.3.0",
     "grunt-cli": "~1.2.0",
     "grunt-contrib-clean": "~1.0.0",
     "grunt-jsdoc": "~2.2.1",
