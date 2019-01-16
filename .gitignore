@@ -25,3 +25,6 @@ bower.json
 .settings/
 src/
 doc/
+
+.idea
+.vscode
