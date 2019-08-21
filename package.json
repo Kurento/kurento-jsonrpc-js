@@ -1,6 +1,6 @@
 {
   "name": "kurento-jsonrpc",
-  "version": "6.10.1-dev",
+  "version": "6.11.1-dev",
   "description": "Kurento RPC client library for Browser and Node.js",
   "keywords": [
     "kurento",
@@ -60,10 +60,9 @@
     "test": "nodeunit test/index.js"
   },
   "dependencies": {
+    "bufferutil": "^4.0.1",
     "inherits": "^2.0.1",
-    "ws": "^1.1.1",
-    "bufferutil": "^3.0.5",
-    "utf-8-validate": "^4.0.2"
+    "ws": "^7.1.0"
   },
   "devDependencies": {
     "bower": "~1.7.9",
